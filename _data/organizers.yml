@@ -1,10 +1,6 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
-  group: "Co-organizers"
-  elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "Talentum Empleo", description: "Combatiendo el desempleo juvenil con formación en desarrollo de productos digitales.", link: "http://talentumempleo.com", imageUrl: "talentum-empleo.png"}
+    - {name: "NSCoder Night Madrid", description: "evento quincenal en el que personas con inquietudes en desarrollo y diseño de aplicaciones para iOS y Mac OS X se reúnen en un ambiente informal y relajado", link: "http://www.meetup.com/es/NSCoder-Night-Madrid/", imageUrl: "nscoders.jpeg"}
+    - {name: "GDG Madrid", description: "GDG Madrid - Comunidad abierta para compartir conocimiento en tecnologías Google y open source", link: "http://www.meetup.com/es/GDGMadrid/", imageUrl: "gdg-madrid.jpeg"}
