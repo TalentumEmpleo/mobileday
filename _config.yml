@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "/", text: "VS. [mobile]"}
  - {permalink: "/schedule/", text: "Programa"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com/e/mobile-day-tickets-25736112405", text: "Apúntate gratis"}
+ - {link: "https://www.eventbrite.com/e/versus-mobile-tickets-25736112405", text: "Apúntate gratis"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com/e/mobile-day-tickets-25736112405", text: "Apúntate gratis"}
+ - {link: "https://www.eventbrite.com/e/versus-mobile-tickets-25736112405", text: "Apúntate gratis"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,7 +55,7 @@ eventDate: "11 de Junio, 2016"
 typeoutTextValues: '"", "es android", "es iOS", "es comunidad", "es empleo digital"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://www.eventbrite.com/e/mobile-day-tickets-25736112405", text: "Apúntate gratis"}
+ - {link: "https://www.eventbrite.com/e/versus-mobile-tickets-25736112405", text: "Apúntate gratis"}
 
 # About Block
 aboutTitle: "Sobre VS. [mobile]"
