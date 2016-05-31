@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "[mobile]"
+title: "VS. [mobile]"
 email: "israel@talentumempleo.com"
-description: "El VS. Mobile es un evento que junta las comunidades de aplicaciones móviles android y iOS"
+description: "VERSUS [mobile] es un evento que junta las comunidades de aplicaciones móviles android y iOS"
 url: "http://www.vsmobile.tech/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
@@ -41,7 +41,7 @@ c4sponsorsUrl: "https://www.eventbrite.com/e/mobile-day-tickets-25736112405"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "VS. [mobile]"}
+ - {permalink: "/", text: "VERSUS [mobile]"}
  - {permalink: "/schedule/", text: "Programa"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/versus-mobile-tickets-25736112405", text: "Apúntate gratis"}
@@ -50,15 +50,15 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "VS. [mobile] <typeout>"
+heroTitle: "VERSUS [mobile] es <typeout>"
 eventDate: "11 de Junio, 2016"
-typeoutTextValues: '"", "es android", "es iOS", "es comunidad", "es empleo digital"'
+typeoutTextValues: '"", "android", "iOS", "comunidad", "desarrollo móvil"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://www.eventbrite.com/e/versus-mobile-tickets-25736112405", text: "Apúntate gratis"}
 
 # About Block
-aboutTitle: "Sobre VS. [mobile]"
+aboutTitle: "VERSUS [mobile] en 3 palabras"
 aboutBlock:
  - {title: "Comunidad", image: "comunidad.svg", text: "Un evento que junta a las comunidades android y iOS. Tenemos más cosas en común que diferencias." }
  - {title: "Tracks", image: "tracks.svg", text: "Sesiones plenarias. Dos tracks paralelos: uno de android y otro de iOS. Y panel final para aprender juntos." }
@@ -108,13 +108,13 @@ venueFeatures: ["Gran patio central", "Amplias salas para charlas y catering", "
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "¿Hablando del VS. [mobile]?"
+tweetsFeedTitle: "¿Hablan del VERSUS [mobile]?"
 twitterHashTag: "VSmobile"
 twitterFeed: "https://twitter.com/search?q=VSmobile"
 
 # Partners Block
 organizersTitle: "Organizadores"
-partnersTitle: "Asociados"
+partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Apúntate gratis"
 
 # Footer
