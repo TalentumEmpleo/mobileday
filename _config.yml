@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "VS. Mobile"
+title: "[mobile]"
 email: "israel@talentumempleo.com"
 description: "El VS. Mobile es un evento que junta las comunidades de aplicaciones móviles android y iOS"
 url: "http://www.vsmobile.tech/"
@@ -41,7 +41,7 @@ c4sponsorsUrl: "https://www.eventbrite.com/e/mobile-day-tickets-25736112405"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "VS. Mobile"}
+ - {permalink: "/", text: "VS. [mobile]"}
  - {permalink: "/schedule/", text: "Programa"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/mobile-day-tickets-25736112405", text: "Apúntate gratis"}
@@ -50,7 +50,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "VS. Mobile <typeout>"
+heroTitle: "VS. [mobile] <typeout>"
 eventDate: "11 de Junio, 2016"
 typeoutTextValues: '"", "es android", "es iOS", "es comunidad", "es empleo digital"'
 typeoutFallback: ""
@@ -58,7 +58,7 @@ heroButtons:
  - {link: "https://www.eventbrite.com/e/mobile-day-tickets-25736112405", text: "Apúntate gratis"}
 
 # About Block
-aboutTitle: "Sobre VS. Mobile"
+aboutTitle: "Sobre VS. [mobile]"
 aboutBlock:
  - {title: "Comunidad", image: "comunidad.svg", text: "Un evento que junta a las comunidades android y iOS. Tenemos más cosas en común que diferencias." }
  - {title: "Tracks", image: "tracks.svg", text: "Sesiones plenarias. Dos tracks paralelos: uno de android y otro de iOS. Y panel final para aprender juntos." }
@@ -108,7 +108,7 @@ venueFeatures: ["Gran patio central", "Amplias salas para charlas y catering", "
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "¿Hablando del VS. Mobile?"
+tweetsFeedTitle: "¿Hablando del VS. [mobile]?"
 twitterHashTag: "VSmobile"
 twitterFeed: "https://twitter.com/search?q=VSmobile"
 
