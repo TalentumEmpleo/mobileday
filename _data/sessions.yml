@@ -12,14 +12,14 @@
   speakers: [1]
 -
   id: 013
-  title: "Panel Final: android VS iOS"
+  title: "Panel VS mobile: android VS iOS"
   place: "Patio Central"
   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
   speakers: [2]
 -
   id: 014
   title: "Networking con proyectos de Talentum Empleo"
-  place: "Sala networking"
+  place: "Sala San Francisco"
   service: true
 -
   id: 001
@@ -48,13 +48,9 @@
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Programación Funcional Reactiva en Swift"
+  description: "La llegada de Swift ha impulsado la adopción de patrones e idiomas propios de la programación funcional. Exploraremos las posibilidades de uno de estos paradigmas, la Programación Funcional Reactiva, utilizando RxSwift."
   speakers: [4]
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
   title: "Test: Interacting with Google Services using nothing but HTML"
@@ -66,15 +62,11 @@
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 006
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [2]
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "World-Class Testing Development Pipeline for iOS."
+  description: "Test our iOS applications is not an easy task. When we start writing tests most of the time we don’t know what to test and how, our code is not as testable as it should, we write tests but sometimes they are flaky or test nothing. In this talk we are going to talk about what to test an how to design a testing development pipeline. Using some examples we will show how to test our application using different approaches based on different testing strategies and frameworks or libraries like: KIF, Apple Testing Framework, Nocilla, Nimble, XCTest, etc. <br />If you want to learn how to design a testing development pipeline, how to test your application layers using different strategies and write tests you can trust, this is your talk."
+  speakers: [5]
 -
-  id: 008
+  id: 007
   title: "Test: Interacting with Google Services using nothing but HTML"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
@@ -84,13 +76,9 @@
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 008
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [4]
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "No todo es código: las mejores herramientas"
+  description: "Desarrollar Software implica unir el arte de programar con disciplinas de Ingeniería como las pruebas, despliegues contínuos, gestión de proyectos, etc. Queremos mejorar siempre como programadores, pero también debemos conocer de qué herramientas disponemos para aplicarlas en el momento adecuado e ir dando forma a nuestra obra. Al igual que en el taller de un pintor no puede haber una única brocha y un solo color, en nuestra caja de herramientas debemos contar con las mejores para terminar nuestro trabajo antes, con mejores resultados y mayor calidad. Mejores herramientas == Programadores más felices."
+  speakers: [1]
 -
   id: 009
   title: "Test: Interacting with Google Services using nothing but HTML"
@@ -102,10 +90,6 @@
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 010
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [4]
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Clean architecutre and Swift"
+  description: "There is no place for small apps in the stores anymore. Nowadays mobile apps development requires a great amount of time and dedication, and getting your product to market quickly with high quality is a key factor for success. So the way we build app, the way we code is changing as well and one of the deepest changes will be how we will architect our code. In this session we will review most common architectural patterns and we will try to demonstrate their benefits in practice with Swift."
+  speakers: [6]

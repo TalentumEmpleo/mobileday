@@ -2,9 +2,9 @@
   id: 1
   name: "Diego"
   surname: "Freniche"
-  company: "Chiquito Developer"
+  company: "MobileJazz"
   title: "Mobile developer: iOS / Android / webOS / HTML5"
-  bio: "Computer nerd, retrocomputer collector, Amstrad & Amiga lover, iOS/Android developer. Sometimes speak at places. 100% FrauDev™"
+  bio: "Actualmente escribo bugs para iOS/Android como Programador 100% remoto 100% feliz en MobileJazz. Usuario de retro máquinas. Charlatán de feria certificado internacionalmente. Programando a ratos desde el 88. Tengo mi CV en github para que los reclutadores tengan que hacer un git clone. Organizo la NSCoder Night de Sevilla. Hablo en podcasts. Tengo un blog. Digo muchas tonterías en todos estos sitios. Inventor del término FrauDev™"
   thumbnailUrl: diego-freniche.jpg
   rockstar: true
   social: 
@@ -36,23 +36,31 @@
   name: "Guillermo"
   surname: "González"
   company: "Telefónica"
-  title: "Mobile Developer and Software Architect"
-  bio: "Mobile developer, comic book lover and movie buff."
+  title: "iOS Developer & Trainer"
+  bio: "Artesano del software, amante de los comics y gran aficionado al cine. Comenzó hace casi 20 años desarrollando apps de tratamiento de imágenes en C++ y a finales de 2007 se introdujo en el mundo del desarrollo móvil llevando una doble vida. Durante el día trabajaba en Symbian Ltd. mejorando el sistema operativo para smartphones más famoso del momento. Por las noches desarrollaba sus primeras aplicaciones en Objective-C, fascinado por la potencia de frameworks como Core Animation y Core Data."
   thumbnailUrl: guille-gonzalez.jpeg
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/gonzalezreal"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 5
+  name: "Pedro Vicente"
+  surname: "Gómez Sánchez"
+  company: "Karumi"
+  title: "Software engineer"
+  bio: "Pedro is a Software Engineer really focused on new technologies, open source, clean code and testing. Right now he is working as a Senior Mobile Engineer at Karumi, a little Software Development Studio based on the software quality from the code and product points of view. He has been also working at some companies like Tuenti or Droiders as Senior Android Developer. His goal is to improve his knowledge about other technologies and languages everyday with a really interesting goal, write the best possible code and the most awesome application."
+  thumbnailUrl: pedro-gomez.jpg
   rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/pedro_g_s"}
+- 
+  id: 6
+  name: "Rafael"
+  surname: "Bartolomé"
+  company: "Tuenti"
+  title: "iOS engineer"
+  bio: "Rafa is an iOS software engineer at Tuenti.  He has been developing mobile apps since iOS 3.2 was released, from indie and freelance projects to startups and enterprise apps. He enjoys exploring new ways of making software more reliable and programming more enjoyable. When he's not coding or learning how to code, he's probably driving his racing kart at the track."
+  thumbnailUrl: rafa-bartolome.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/RafaelBartolome"}
