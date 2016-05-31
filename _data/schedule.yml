@@ -4,7 +4,7 @@
   tracks: 
     - {title: "Android", subtitle: "Patio central", color: "#21b097"}
     - {title: "iOS", subtitle: "Sala co-learning", color: "#e84a4d"}
-    - {title: "Networking", subtitle: "Sala San Francisco", color: "#352c68"}
+    - {title: "Networking", subtitle: "Sala San Francisco", color: "#878787"}
   timeslots:
     - {
     	startTime: "10:00",
