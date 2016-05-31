@@ -9,8 +9,9 @@
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
-                    <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
+                    <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs" style="color:#fff; background-color:{{ track.color }};">
                         <h5 class="track-header-title">{{ track.title }}</h5>
+                        <p>{{ track.subtitle }}</p>
                     </div>
                     {% endfor %}
                     <div class="track-header-slot col-xs-12 visible-xs">
