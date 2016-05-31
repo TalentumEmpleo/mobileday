@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Mobile Day 2016"
+title: "VS. Mobile"
 email: "israel@talentumempleo.com"
-description: "El Mobile Day es un evento que junta las comunidades de aplicaciones móviles android y iOS"
+description: "El VS. Mobile es un evento que junta las comunidades de aplicaciones móviles android y iOS"
 baseurl: "/mobileday"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
@@ -42,7 +42,7 @@ c4sponsorsUrl: "https://www.eventbrite.com/e/mobile-day-tickets-25736112405"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Mobile Day"}
+ - {permalink: "/", text: "VS. Mobile"}
  - {permalink: "/schedule/", text: "Programa"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/mobile-day-tickets-25736112405", text: "Apúntate gratis"}
@@ -51,7 +51,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "MobileDay Madrid <typeout>"
+heroTitle: "VS. Mobile <typeout>"
 eventDate: "11 de Junio, 2016"
 typeoutTextValues: '"", "es android", "es iOS", "es comunidad", "es empleo digital"'
 typeoutFallback: ""
@@ -59,7 +59,7 @@ heroButtons:
  - {link: "https://www.eventbrite.com/e/mobile-day-tickets-25736112405", text: "Apúntate gratis"}
 
 # About Block
-aboutTitle: "Sobre el Mobile Day"
+aboutTitle: "Sobre VS. Mobile"
 aboutBlock:
  - {title: "Comunidad", image: "comunidad.jpg", text: "Un evento que junta a las comunidades android y iOS. Tenemos más cosas en común que diferencias." }
  - {title: "Tracks", image: "tracks.png", text: "Sesiones plenarias. Dos tracks paralelos: uno de android y otro de iOS. Y panel final para aprender juntos." }
@@ -109,62 +109,14 @@ venueFeatures: ["Gran patio central", "Amplias salas para charlas y catering", "
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "¿Quién habla del Mobile Day?"
-twitterHashTag: "mobileDay2016"
-twitterFeed: "https://twitter.com/search?q=mobileday"
+tweetsFeedTitle: "¿Hablando del VS. Mobile?"
+twitterHashTag: "VSmobile"
+twitterFeed: "https://twitter.com/search?q=VSmobile"
 
 # Partners Block
 organizersTitle: "Organizadores"
 partnersTitle: "Asociados"
 partnersC4sponsorsButton: "Apúntate gratis"
-
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-
-# Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
