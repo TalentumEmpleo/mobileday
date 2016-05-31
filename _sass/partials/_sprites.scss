@@ -1,14 +1,13 @@
-.logo {
-    background-image: url($logos-sprite);
+.logo {    
     background-repeat: no-repeat;
     &.logo-dark {
-    	background-position: 0 -1px;
+        background-image: url("../img/sprites/VERSUSMobile_Logotipo_VersionPrincipal-Azul.svg");
     }
     &.logo-gray {
-    	background-position: 0 -63px;
-	}
+        background-image: url("../img/sprites/VERSUSMobile_Logotipo_VersionPrincipal-Gris.svg");
+    }
 	&.logo-light {
-	    background-position: 0 -127px;
+	    background-image: url("../img/sprites/VERSUSMobile_Logotipo_VersionPrincipal-Blanco.svg");
 	}
 }
 .icon {
