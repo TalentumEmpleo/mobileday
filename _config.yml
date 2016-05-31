@@ -60,9 +60,9 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre VS. Mobile"
 aboutBlock:
- - {title: "Comunidad", image: "comunidad.jpg", text: "Un evento que junta a las comunidades android y iOS. Tenemos más cosas en común que diferencias." }
- - {title: "Tracks", image: "tracks.png", text: "Sesiones plenarias. Dos tracks paralelos: uno de android y otro de iOS. Y panel final para aprender juntos." }
- - {title: "Networking", image: "networking.jpg", text: "Zona de networking para hacer contactos profesionales y fomentar las relaciones uno a uno." }
+ - {title: "Comunidad", image: "comunidad.svg", text: "Un evento que junta a las comunidades android y iOS. Tenemos más cosas en común que diferencias." }
+ - {title: "Tracks", image: "tracks.svg", text: "Sesiones plenarias. Dos tracks paralelos: uno de android y otro de iOS. Y panel final para aprender juntos." }
+ - {title: "Networking", image: "networking.svg", text: "Zona de networking para hacer contactos profesionales y fomentar las relaciones uno a uno." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
