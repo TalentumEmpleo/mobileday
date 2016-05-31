@@ -6,6 +6,7 @@ _site/
 
 ### Sass ###
 .sass-cache
+css/main.css
 
 ### Windows ###
 # Windows image file caches
