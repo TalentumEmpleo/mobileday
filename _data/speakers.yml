@@ -13,9 +13,9 @@
   id: 2
   name: "Jorge"
   surname: "Ortiz"
-  company: "PoWWaU"
+  company: "Canonical Examples"
   title: "Android and iOS Trainer and Developer"
-  bio: 'PoWWaU founder. Mobile development instructor. Developer of productivity apps for mobile devices.'
+  bio: "Jorge es un consultor independiente dedicado al desarrollo móvil, la seguridad y la arquitectura de sistemas. Empezó a trabajar como desarrollador para el M.I.T. en 1993 y desde entonces ha colaborado en multitud de proyectos de software, muchos de ellos de carácter interno para HP en donde trabajó durante más de 15 años. Desde 2009 ha estado trabajando en diferentes áreas de desarrollo móvil. Tras jugar con PalmOS, aprendió programación para Android para el primer concurso de Google Apps e inmediatamente empezó a experimentar con el primer SDK de iPhone. Participa a menudo como instructor en los mejores bootcamps de iOS y Android en EE.UU. y Europa. Recientemente ha fundado Canonical Examples para ayudar a otros desarrolladores a dar un paso adelante en su carrera y convertirse en seniors en un mercado de mucha demanda."
   thumbnailUrl: jorge-ortiz.jpg
   rockstar: true
   social: 
@@ -44,8 +44,8 @@
     - {name: "twitter", link: "http://twitter.com/gonzalezreal"}
 - 
   id: 5
-  name: "Pedro Vicente"
-  surname: "Gómez Sánchez"
+  name: "Pedro"
+  surname: "Gómez"
   company: "Karumi"
   title: "Software engineer"
   bio: "Pedro is a Software Engineer really focused on new technologies, open source, clean code and testing. Right now he is working as a Senior Mobile Engineer at Karumi, a little Software Development Studio based on the software quality from the code and product points of view. He has been also working at some companies like Tuenti or Droiders as Senior Android Developer. His goal is to improve his knowledge about other technologies and languages everyday with a really interesting goal, write the best possible code and the most awesome application."
@@ -64,3 +64,36 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/RafaelBartolome"}
+- 
+  id: 7
+  name: "Erik"
+  surname: "de Erice"
+  company: "TICKETCHAT"
+  title: "Senior UI Designer & iOS Developer"
+  bio: "Designer, teaching Design4Devs at KeepCoding.io, iOS Developer [WIP], father[1…3], drawing&cartoon junkie, Renaissance man and good guy in general."
+  thumbnailUrl: erik-erice.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/erikerice"}
+- 
+  id: 8
+  name: "Saúl"
+  surname: "Molinero"
+  company: "Popsy - Buy & Sell"
+  title: "Android Engineer"
+  bio: "Android & community enthusiast! Rocking at @popsyapp. Zamburiña Driven Developer"
+  thumbnailUrl: saul-molinero.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/_SaulMM"}
+- 
+  id: 9
+  name: "David"
+  surname: "González"
+  company: "Novoda"
+  title: "Technical Product Owner"
+  bio: "Android Software Engineer @HelpScout. Previously @Novoda. Google Developer Expert for Android https://developers.google.com/experts/people/david-gonz-lez …. Homebrewer 100% Not Vegan"
+  thumbnailUrl: david-gonzalez.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/dggonzalez"}
