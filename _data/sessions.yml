@@ -29,8 +29,8 @@
   speakers: []
 -
   id: 002
-  title: "UX en iOS"
-  description: "TBD"
+  title: "Todo lo que siempre quisiste saber sobre UX pero no preguntaste porque, en realidad, no te importa un carajo."
+  description: "En esta charla podremos ver cómo la experiencia de usuario afecta a nuestros diseños, desarrollos y, en general a nuestras vidas, y cómo en un alto porcentaje de los casos, pasamos de ella a tope."
   speakers: [7]
 -
   id: 003
