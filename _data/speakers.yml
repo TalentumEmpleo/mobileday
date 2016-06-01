@@ -81,7 +81,7 @@
   surname: "Molinero"
   company: "Popsy - Buy & Sell"
   title: "Android Engineer"
-  bio: "Android & community enthusiast! Rocking at @popsyapp. Zamburiña Driven Developer"
+  bio: "Saul Molinero es una persona entusiasta enfocada en el diseño y desarrollo móvil, actualmente trabaja para una compañía Americana basada en el desarrollo android nativo.<br />Saúl disfruta creando y compartiendo contenido con las comunidades de desarrolladores además de participar activamente en varios GDGs (Google Developers Groups) siendo fundador del GDG de Santiago de Compostela y organizador del GDG Vigo."
   thumbnailUrl: saul-molinero.jpg
   rockstar: false
   social: 
@@ -97,3 +97,14 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/dggonzalez"}
+- 
+  id: 10
+  name: "Javier"
+  surname: "Gamarra"
+  company: "Liferay"
+  title: "Software Developer"
+  bio: "Developer always eager to learn and improve.<br />I'm working as senior Android developer in Liferay, creating an SDK to speed up Android app development using Liferay Portal.<br />I've worked in many development stacks: Java EE, Android and JS (angular, node...) and I play with Scala and data visualization in my spare time. I love challenges and I've worked in multiple environments, from aeroespacial industries to mobile development.<br />I am a member of @agilecyl, an agile meetup, to help spread better technical practices in other companies."
+  thumbnailUrl: javier-gamarra.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/nhpatt"}
