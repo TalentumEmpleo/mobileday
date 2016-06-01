@@ -1,6 +1,6 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "Talentum Empleo", description: "Combatiendo el desempleo juvenil con formación en desarrollo de productos digitales.", link: "http://talentumempleo.com", imageUrl: "talentum-empleo.png"}
+    - {name: "Fundación Telefónica", description: "Combatiendo el desempleo juvenil con formación en desarrollo de productos digitales.", link: "http://www.fundaciontelefonica.com/", imageUrl: "logo_ft.png"}
     - {name: "NSCoder Night Madrid", description: "evento quincenal en el que personas con inquietudes en desarrollo y diseño de aplicaciones para iOS y Mac OS X se reúnen en un ambiente informal y relajado", link: "http://www.meetup.com/es/NSCoder-Night-Madrid/", imageUrl: "nscoders.jpeg"}
     - {name: "GDG Madrid", description: "GDG Madrid - Comunidad abierta para compartir conocimiento en tecnologías Google y open source", link: "http://www.meetup.com/es/GDGMadrid/", imageUrl: "gdg-madrid.jpeg"}
