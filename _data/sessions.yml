@@ -34,8 +34,8 @@
   speakers: [7]
 -
   id: 003
-  title: "Programación Reactiva en android"
-  description: "TBD"
+  title: "RxJava en práctica"
+  description: "RxJava y la programación reactiva se han hecho muy populares últimamente, seguro que has visto alguna charla sobre sus características. Pero es difícil entender dónde aplicarlo... en esta charla te enseñaremos casos prácticos de uso para saciar todas tus dudas de programación reactiva."
   speakers: [10]
 -
   id: 004
