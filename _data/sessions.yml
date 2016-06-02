@@ -13,7 +13,7 @@
   speakers: [1]
 -
   id: 013
-  title: "Panel VERSUS [mobile]: android VS iOS"
+  title: "Panel VS. [mobile]: android VS. iOS"
   place: "Patio Central"
   description: "En este panel final, dirigido por Jorge Ortiz, hablaremos de las silimitudes y diferencias en el desarrollo de android y iOS en los 5 aspectos tratados en la conferencia: UX, programación reactiva, testing, herramientas y arquitecturas."
   speakers: [2]
