@@ -108,3 +108,14 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/nhpatt"}
+- 
+  id: 11
+  name: "Saúl"
+  surname: "Díaz"
+  company: "Chicisimo"
+  title: "Android Engineer"
+  bio: "I have been working in different áreas for the last four years, mainly in Java and C++.<br />In 2010 I learnt about Android, platform which I have a passion with, and the one I devote most of my free time, splitting it among personal projects and as a freelance.<br />I also take active part in developer communities and also work as an editor in a specialized blog, aspects which I am eager to fully grow in 2012.<br />I define myself as a 'geek'. I am in love with what I do, and that is the branding I want to pass on my work."
+  thumbnailUrl: saul-diaz.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/sefford"}
