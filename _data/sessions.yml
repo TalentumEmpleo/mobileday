@@ -24,8 +24,8 @@
   service: true
 -
   id: 001
-  title: "UX en android"
-  description: "TBD"
+  title: "UX sin barreras"
+  description: "En esta charla daremos un punto de vista de como llevar la UX como desarrolladores, qué pretende Google de nosotros y cuales son los puntos fuertes de Android en los que podemos centrarnos para poner nuestro granito de arena para mejorar nuestro producto."
   speakers: [11]
 -
   id: 002
