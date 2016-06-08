@@ -65,7 +65,7 @@
 -
   id: 009
   title: "¿Por qué el lado oscuro debe usar una arquitectura SOLID?"
-  description: "TBD"
+  description: "Cualquiera que haya estado involucrado en un proyecto mediano o grande se ha tenido que preocupar por la arquitectura. Todos hemos oído que una buena arquitectura nos puede ayudar a tener un código más ágil y robusto y que será más fácil trabajar con la aplicación, pero no siempre está claro cómo, ni cuál es la arquitectura de la que todo el mundo está hablando. Estableciendo paralelismos con problemas conocidos de las Estrellas de la Muerte y la Starkiller Base, haremos un recorrido por los problemas más relevantes, explicaremos cómo una arquitectura bien pensada puede sernos muy valiosa, y compartiremos algo de código de ejemplo. Es un buen momento para hablar de algo más que MVP o MVVM.<br />Habrá degustación de principios de programación con guarnición de patrones de diseño."
   speakers: [2]
 -
   id: 010
