@@ -55,7 +55,7 @@
 -
   id: 007
   title: "Mastering Android Studio"
-  description: "TBD"
+  description: "No cabe duda que la herramienta clave para el desarrollador android de hoy en dia es Android Studio.<br />En este último Google I/O ésta herramienta ha recibido una importante actualización, centrada en mejorar los tiempos de build, un nuevo y flamanta UI builder, apk analyzer y manifest editor entre otros.<br />Esta charla sin diapositivas muestra cada una de estas nuevas herramientas directamente en el editor, como por ejemplo, utilizar el nuevo ConstraintLayout sin tocar código.<br />Sin olvidar que Android Studio está desarrollado en el top de IntelliJ, se mostrarán multitud de trucos para utilizar la herramienta sin usar el touchpad o ratón, permitiendo un desarrollo a gran velocidad y con mucha eficacia, se tratarán temas de navegación, selección, inspecciones, live templates y mucho más! "
   speakers: [8]
 -
   id: 008
