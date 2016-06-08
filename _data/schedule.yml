@@ -3,8 +3,8 @@
   dateReadable: "11 de Junio"
   tracks: 
     - {title: "Android", subtitle: "Patio central", color: "#21b097"}
-    - {title: "iOS", subtitle: "Sala co-learning", color: "#e84a4d"}
-    - {title: "Networking", subtitle: "Sala San Francisco", color: "#878787"}
+    - {title: "iOS", subtitle: "Sala co-working", color: "#e84a4d"}
+    - {title: "Networking", subtitle: "Adyacente Patio Central", color: "#878787"}
   timeslots:
     - {
     	startTime: "10:00",
