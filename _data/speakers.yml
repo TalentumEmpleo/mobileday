@@ -28,7 +28,7 @@
   title: "Android Expert"
   bio: "Theoretical Developer en @gokarumi , Android GDE, cagado de un Olivo en Manchita provincia de Madrid. Suya es la gran frase: Camarero otro tintito"
   thumbnailUrl: jorge-barroso.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/flipper83"}
 - 
@@ -50,7 +50,7 @@
   title: "Software engineer"
   bio: "Pedro is a Software Engineer really focused on new technologies, open source, clean code and testing. Right now he is working as a Senior Mobile Engineer at Karumi, a little Software Development Studio based on the software quality from the code and product points of view. He has been also working at some companies like Tuenti or Droiders as Senior Android Developer. His goal is to improve his knowledge about other technologies and languages everyday with a really interesting goal, write the best possible code and the most awesome application."
   thumbnailUrl: pedro-gomez.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/pedro_g_s"}
 - 

@@ -49,8 +49,8 @@
   speakers: [3]
 -
   id: 006
-  title: "World-Class Testing Development Pipeline for iOS."
-  description: "Test our iOS applications is not an easy task. When we start writing tests most of the time we don’t know what to test and how, our code is not as testable as it should, we write tests but sometimes they are flaky or test nothing. In this talk we are going to talk about what to test an how to design a testing development pipeline. Using some examples we will show how to test our application using different approaches based on different testing strategies and frameworks or libraries like: KIF, Apple Testing Framework, Nocilla, Nimble, XCTest, etc. <br />If you want to learn how to design a testing development pipeline, how to test your application layers using different strategies and write tests you can trust, this is your talk."
+  title: "World-Class Testing Development Pipeline."
+  description: "Probar nuestras aplicaciones de iOS y Android no es una tarea fácil. Cuando empezamos a escribir nuestros test, la mayoría de las veces no sabemos lo que vamos a probar ni cómo, nuestro código no es tan verificable como debería, a veces escribimos tests frágiles o no probamos nada.<br />En esta charla hablaremos de qué probar y cómo diseñar una cadena de verificación de los desarrollos. Usando algunos ejemplos, mostraremos cómo probar nuestra aplicación usando distintas aproximaciones basadas en distintas estrategias de tests y librerías o frameworks tales como : KIF, Apple Testing Framework, Nocilla, Nimble, XCTest, espresso, JUnit, mock web server, etc.<br />Si quieres aprender a desarrollar una cadena de verificación del desarrollo, cómo probar tus distintas capas de aplicación usando distintas estrategias y escribir tests en los que puedas confiar, esta es tu charla."
   speakers: [5]
 -
   id: 007

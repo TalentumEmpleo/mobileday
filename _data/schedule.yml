@@ -14,12 +14,12 @@
     - {
         startTime: "11:00",
         endTime: "11:50",
-        sessionIds: [001, 002, 014]
+        sessionIds: [006]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "12:50",
-    	sessionIds: [005, 006, 014]
+        startTime: "12:00",
+        endTime: "12:50",
+        sessionIds: [001, 002, 014]
     }
     - {
         startTime: "13:00",
