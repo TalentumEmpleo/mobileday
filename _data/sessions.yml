@@ -64,9 +64,9 @@
   speakers: [1]
 -
   id: 009
-  title: "Arquitecturas android"
+  title: "¿Por qué el lado oscuro debe usar una arquitectura SOLID?"
   description: "TBD"
-  speakers: [9]
+  speakers: [2]
 -
   id: 010
   title: "Clean architecutre and Swift"
